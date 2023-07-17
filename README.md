@@ -36,7 +36,6 @@ The example project requires the following configuration:
 - Volley (for API communication)
 - Glide (for image loading)
 - Realm (for local data storage)
-- 
 
 You may need to update these values in the `build.gradle` file based on your project requirements.
 
