@@ -22,8 +22,6 @@ Welcome to ProductTraderAdmin Android App! This app allows administrators to man
 <img src="https://github.com/cgardesey/ProductTraderAdmin/assets/10109354/4398b97b-8dfa-4ef6-a00a-32ef0307c56f" width="250" alt="Screenshot 8">
 <img src="https://github.com/cgardesey/ProductTraderAdmin/assets/10109354/4cc17674-fd70-4f0e-bd45-55cace0bd5aa" width="250" alt="Screenshot 8">
 
-![Uploading image.png…]()
-
 
 ## Getting Started
 
