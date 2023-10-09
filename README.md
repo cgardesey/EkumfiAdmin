@@ -1,6 +1,6 @@
 # Ekumfi Juice Admin App
  
-Welcome to the Ekumfi Juice Trading App repository! This Android app serves as a platform for trading Ekumfi juice products between Ekumfi Juice Company and wholesalers. The app streamlines the ordering and distribution process, making it easier for both parties to conduct business efficiently.
+Welcome to the Ekumfi Juice Admin App repository! This Android app serves as a platform for trading Ekumfi juice products between Ekumfi Juice Company and wholesalers. The app streamlines the ordering and distribution process, making it easier for both parties to conduct business efficiently.
 
 ## Features
 
