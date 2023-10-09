@@ -1,13 +1,13 @@
-# ProductTraderAdmin
+# Ekumfi Juice Admin App
  
-Welcome to ProductTraderAdmin Android App! This app allows administrators to manage products, orders, and customers in an eCommerce system.
+Welcome to the Ekumfi Juice Trading App repository! This Android app serves as a platform for trading Ekumfi juice products between Ekumfi Juice Company and wholesalers. The app streamlines the ordering and distribution process, making it easier for both parties to conduct business efficiently.
 
 ## Features
 
-- Product Management: Add, edit, and delete products from the catalog.
-- Order Management: View and process customer orders.
-- Customer Management: Manage customer information and profiles.
-- Analytics: Track sales, revenue, and other key metrics.
+- **Product Management**: Add, edit, and delete products from the catalog.
+- **Order Management**: View and process wholesaler orders.
+- **Wholesaler Management**: Manage wholesaler information and profiles.
+- **Analytics**: Track sales, revenue, and other key metrics.
 - **Chat:** Chat with shop manager and also with customers using the in-app messaging feature
 
   ## Screenshots
