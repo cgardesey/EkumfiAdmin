@@ -52,8 +52,12 @@ The example project requires the following configuration:
 - Glide (for image loading)
 - Realm (for local data storage)
 
-If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/product_trader_apps_backend) for detailed instructions.
+If you're looking to integrate with the backend api, make sure to check out the  [backend repo](https://github.com/cgardesey/ekumfi_juice_backend) for detailed instructions.
+
+## Contributing
+
+I welcome contributions to enhance this project. If you find any bugs or have feature suggestions, please open an issue or submit a pull request. Make sure to follow the existing coding style and conventions.
 
 ## License
 
-ProductTraderAdmin project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use it as a reference or starting point for your own projects.
